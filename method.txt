@@ -1,0 +1,5 @@
+i) setup + use opencv to figure out the image
+ii) mediapipe to figure out the gesture outline
+iii) coordinate distances to categorise gesture
+iv) spotify integration
+v) formalise + ship
